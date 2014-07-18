@@ -6,8 +6,5 @@ class Utils {
 		return $tab;
 
 	}
-	function isPremier($nb){
-		
-	}
 }
 ?>
