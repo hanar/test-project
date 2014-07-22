@@ -6,8 +6,7 @@ class Utils {
 
 
 		;
-		return $tab;
-
+		
 	}
 }
 ?> 	
