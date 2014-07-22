@@ -2,9 +2,12 @@
 class Utils {
 	
 	function sortArray($tab){
-		sort($tab);
+		sort($tab)
+
+
+		;
 		return $tab;
 
 	}
 }
-?>
+?> 	
